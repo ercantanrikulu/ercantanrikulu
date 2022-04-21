@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ercantanrikulu
 - 👀 I’m interested in IOS Developement.
-- 🌱 I’m currently learning Swift and UIKit.
+- 🌱 I’m currently learning Swift.
 - 📫 You can reach me via ercan.tanrikulu@darussafaka.net
 
 <!---
